@@ -27,13 +27,15 @@ The validation reports distinguish observed results from checks that remain open
 | --- | --- |
 | [Design requirements](design-requirements.md) | Product definition, requirement IDs, and verification criteria. |
 | [Development logic](logic.md) | My design workflow and reflections. |
+| [Working with AI](thoughts.md) | My experience using AI for test models, design changes, and iteration. |
 | [Validation reports](doc/test-logs/) | Test parameters, observations, design decisions, and unresolved checks, linked to requirement IDs. |
+| [Build guide](doc/build.md) | File quantities, printing notes, assembly, and the prototype configuration. |
 | [CAD source](models/cad/) | Editable OpenSCAD models, organized by component. |
 | [Current STL files](models/stl/current/) | Selected drawer, rack, cover, vent, and rear-stop models. |
 | [Experimental STL files](models/stl/experiments/) | Fit coupons and earlier variants retained to document iteration. |
 | [Photos](doc/images/) | Printed parts, assembly details, and the prototype. |
 
-To review the project, start with the requirements, then the development logic and validation reports. To inspect or reproduce the parts, start with the current STL files and consult the reports for printing context and known limitations.
+To review the project, start with the requirements, then the development logic and validation reports. To reproduce the parts, start with the build guide and current STL files.
 
 ## Authorship and License
 
