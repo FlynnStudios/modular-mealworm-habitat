@@ -6,6 +6,7 @@ My process starts with a practical need. I define the product, carry out desk re
 
 ```mermaid
 flowchart TD
+<<<<<<< HEAD
     A["Product definition and desk research"] --> B["Requirements and REQ IDs"]
     B --> C["Design and trade-offs"]
     C --> D["Minimum viable prototype"]
@@ -14,6 +15,16 @@ flowchart TD
     E -->|"Pass"| F["Assembly and functional testing"]
     F -->|"Iterate"| C
     F -->|"Pass"| G["Complete V1.0"]
+=======
+    A["Understand the needs and context"] --> B["Define product's goals and checks"]
+    B --> C["Compare solutions and trade-offs"]
+    C --> D["Build the smallest useful prototype"]
+    D --> E["Test and update findings"]
+    E -->|"Revise"| C
+    E -->|"Local checks met"| F["Check the assembled system"]
+    F -->|"Revise"| C
+    F -->|"Goals met"| G["Complete the agreed scope"]
+>>>>>>> ee9bc0c8c1896aca89ad9d407747cddf33e25639
 ```
 
 1. **Product definition and desk research.** I start with the problem I want to solve, look into existing approaches, and decide what the first version needs to do.
@@ -37,4 +48,8 @@ flowchart TD
 > - **Give each revision a clear purpose.** I will state what I expect a change to improve, then check whether it does.
 > - **Know when to stop.** I will finish the required functions for the current version and leave optional improvements for the next one.
 
+<<<<<<< HEAD
 **Reflection recorded:** 2026-09-29 23:25 EDT. **Revised:** 2026-09-29 23:47 EDT (UTC-04:00).
+=======
+**Reflection recorded:** 2026-09-20 13:06 EDT. **Revised:** 2026-09-29 23:38 EDT (UTC-04:00).
+>>>>>>> ee9bc0c8c1896aca89ad9d407747cddf33e25639
