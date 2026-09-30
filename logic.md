@@ -6,7 +6,7 @@ I approach development as a series of decisions supported by evidence. I begin w
 
 ```mermaid
 flowchart TD
-    A["Understand the need and context"] --> B["Define goals and checks"]
+    A["Understand the needs and context"] --> B["Define product's goals and checks"]
     B --> C["Compare solutions and trade-offs"]
     C --> D["Build the smallest useful prototype"]
     D --> E["Test and update findings"]
@@ -35,4 +35,4 @@ flowchart TD
 > - **State the expected effect of each change.** I will compare the result with that expectation before choosing the next revision.
 > - **Define a stopping point.** I will complete the agreed scope and separate optional refinements from unresolved requirements.
 
-**Reflection recorded:** 2026-09-29 23:25 EDT. **Revised:** 2026-09-29 23:38 EDT (UTC-04:00).
+**Reflection recorded:** 2026-09-20 13:06 EDT. **Revised:** 2026-09-29 23:38 EDT (UTC-04:00).
